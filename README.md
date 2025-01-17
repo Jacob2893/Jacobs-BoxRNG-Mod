@@ -1,5 +1,6 @@
-# Jacob's BoxRNG Mod
+# Jacob's BoxRNG Mod 
 ### *Current Version: v1.0*
+### *For Fabric | Minecraft 1.21.4*
 ## QOL mod for the BoxRNG mode on the [LuckyMC.GG](https://discord.gg/JMq3QcdnVc) minecraft server
 ## Current features:
 ### Boss spawning tracker
