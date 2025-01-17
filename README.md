@@ -9,15 +9,15 @@ Based on the progress the different lines change color:
  - 50-74% - Yellow
  - 75-89% - Orange
  - 90%+ - Red (+Sound notification at 90%)
- - 10 or less kills remaining - Dark Red (+Sound notification at 10 kills remaining)
+ - 10 or fewer kills remaining - Dark Red (+Sound notification at 10 kills remaining)
 
-![](/screenshots/progress-color.png)
+![](/assets/screenshots/progress-color.png)
 
 If a hologram is out of player's range, it will have (OOR) next to it, to indicate that it's out of range.  
 It will not update but save and display the last seen value  
 (Cant really do much about it rn, since the holograms disappearing when you get too far away is a serverside feature)
 
-![](/screenshots/out-of-range.png)
+![](/assets/screenshots/out-of-range.png)
 
-Right now there is also a clientside command `/jacobsmod`, but i haven't added any functionality to it yet. In a future
+Right now there is also a clientside command `/jacobsmod`, but I haven't added any functionality to it yet. In a future
 version of this mod it will open a GUI where you can edit different aspects of the mod.
