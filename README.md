@@ -1,5 +1,6 @@
 # Jacob's BoxRNG Mod
 ### *Current Version: v1.0*
+### *For Fabric | Minecraft 1.21.4*
 ## QOL mod for the BoxRNG mode on the [LuckyMC.GG](https://discord.gg/JMq3QcdnVc) minecraft server
 ## Current features:
 ### Boss spawning tracker
@@ -19,5 +20,5 @@ It will not update but save and display the last seen value
 
 ![](/assets/screenshots/out-of-range.png)
 
-Right now there is also a clientside command `/jacobsmod`, but I haven't added any functionality to it yet. In a future
+Right now there is also a clientside command `/jacobsmod`, but i haven't added any functionality to it yet. In a future
 version of this mod it will open a GUI where you can edit different aspects of the mod.
